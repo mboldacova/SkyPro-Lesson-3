@@ -24,9 +24,9 @@
 
 **Задание 2. Список объектов**
 
-1. [Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py)/n
-2. [Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py)
-3. Создайте файл `smartphone.py`.
+1. [Link to smartphone.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/smartphone.py)
+2. [Link to lesson_3_task_2.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_2.py)
+3. Создайте файл [smartphone.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/smartphone.py).
 4. В файле объявите класс `Smartphone`.
 5. Объявите в классе конструктор.
 
@@ -36,7 +36,7 @@
 - модель телефона,
 - абонентский номер (”+79…”).
   
-6. Создайте файл `lesson_3_task_2.py`.
+6. Создайте файл [lesson_3_task_2.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_2.py).
 7. В файле объявите переменную `catalog`.
 8. Переменная хранит в себе список (`[]`).
 9. Наполните список пятью разными экземплярами класса `Smartphone`.
@@ -44,23 +44,23 @@
 
 **Задание 3. Вложенные классы**
 
-1. [Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py)/n
-2. [Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py)
-3. [Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py)
-4. В отдельном файле создайте класс `Address`.
+1. [Link to address.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/address.py)
+2. [Link to mailing.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/mailing.py)
+3. [Link to lesson_3_task_3.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_3.py)
+4. В отдельном файле [address.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/address.py) создайте класс `Address`.
 5. Класс должен содержать в себе поля:
     - «индекс»,
     - «город»,
     - «улица»,
     - «дом»,
     - «квартира».
-6. В отдельном файле создайте класс `Mailing` (почтовое отправление).
+6. В отдельном файле [mailing.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/mailing.py) создайте класс `Mailing` (почтовое отправление).
 7. В классе должно быть 4 поля:
     - `to_address` (тип данных `Address`),
     - `from_address` (тип данных `Address`),
     - `cost` (тип данных `число`),
     - `track` (тип данных строка).
-8. Создайте файл `lesson_3_task_3.py`.
+8. Создайте файл [lesson_3_task_3.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_3.py).
 9. Импортируйте классы `Address` и `Mailing`.
 10. В файле создайте экземпляр класса `Mailing`.
 11. Заполните поля класса адресами (`to_address` и `from_address`), трек-номером (`track`) и стоимостью (`cost`).
@@ -70,6 +70,6 @@
 
 **Задание 4. Нарисуйте картинку**
 
-1. [Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py)
-2. Создайте файл `lesson_3_task_4.py`.
+1. [Link to lesson_3_task_4.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_4.py)
+2. Создайте файл [lesson_3_task_4.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_4.py).
 3. Напишите код, который рисует изображение любого животного.
