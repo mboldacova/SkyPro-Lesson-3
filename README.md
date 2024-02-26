@@ -2,8 +2,8 @@
 
 **Задание 1. Создание класса**
 
-[Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py)
-[Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-2/blob/main/lesson_2_task_0.py)
+[Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py)/n
+[Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py)
 1. Создайте файл [user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py).
 2. В файле объявите класс `User`.
 3. Объявите в классе конструктор.
@@ -17,7 +17,7 @@
     - имя,
     - фамилию,
     - имя и фамилию.
-5. Создайте файл `lesson_3_task_1.py`.
+5. Создайте файл [lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py).
 6. Импортируйте в него класс `user`.
 7. Создайте новый экземпляр `User` и сохраните его в переменную `my_user`.
 8. Вызовите все методы у объекта в переменной `my_user`.
