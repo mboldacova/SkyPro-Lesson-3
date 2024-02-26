@@ -71,5 +71,6 @@
 **Задание 4. Нарисуйте картинку**
 
 1. [Link to lesson_3_task_4.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_4.py)
+   
 2. Создайте файл [lesson_3_task_4.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_4.py).
 3. Напишите код, который рисует изображение любого животного.
