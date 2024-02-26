@@ -3,7 +3,9 @@
 **Задание 1. Создание класса**
 
 1. [Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py)
+   
 2. [Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_1.py)
+   
 3. Создайте файл [user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py).
 4. В файле объявите класс `User`.
 5. Объявите в классе конструктор.
@@ -25,7 +27,9 @@
 **Задание 2. Список объектов**
 
 1. [Link to smartphone.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/smartphone.py)
+   
 2. [Link to lesson_3_task_2.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/lesson_3_task_2.py)
+   
 3. Создайте файл [smartphone.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/smartphone.py).
 4. В файле объявите класс `Smartphone`.
 5. Объявите в классе конструктор.
