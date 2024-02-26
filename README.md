@@ -2,16 +2,16 @@
 
 **Задание 1. Создание класса**
 
-[Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-2/blob/main/lesson_2_task_0.py)
+[Link to user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py)
 [Link to lesson_3_task_1.py](https://github.com/mboldacova/SkyPro-Lesson-2/blob/main/lesson_2_task_0.py)
-1. Создайте файл `user.py`.
+1. Создайте файл [user.py](https://github.com/mboldacova/SkyPro-Lesson-3/blob/main/user.py).
 2. В файле объявите класс `User`.
 3. Объявите в классе конструктор.
 
 Конструктор должен принимать на вход 2 параметра:
 
-a). `first_name` — имя.
-b). `last_name` — фамилия.
+    - `first_name` — имя.
+    - `last_name` — фамилия.
 
 4. Создайте в классе 3 метода, которые печатают:
     - имя,
